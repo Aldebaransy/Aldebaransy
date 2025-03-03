@@ -39,9 +39,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aldebaran212/Aldebaran212/output/snake.svg" alt="Snake animation" />
-
-###
